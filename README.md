@@ -1,13 +1,6 @@
 
 # 🧠 Vault-Tec Memory Game
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
-</p>
-
-<p align="center">
-  A fun and interactive memory card matching game inspired by the Fallout Vault-Tec universe.
-</p>
 
 ---
 
