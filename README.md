@@ -6,7 +6,7 @@
 
 ## 🎮 Live Demo
 
-🔗 https://memory-game-v17m-pd0ettf2n-sks-projects-df082d85.vercel.app/
+🔗 https://memory-game-gamma-dusky-41.vercel.app/
 
 ---
 
